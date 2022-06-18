@@ -1,0 +1,35 @@
+.scroll-area {
+			height: 1000px;
+			background-color: #eee;
+			padding: 10%;
+		}
+
+		button {
+			margin-top: 200px;
+			margin-bottom: 100px;
+			display: block;
+		}
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height:100vh;
+    overflow: hidden;
+    position: relative;
+    background-color: gray;
+}
+.container {
+  border: 3px solid #f1f1f1;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+h1 {
+    font-family:'Montserrat', 'Source Sans Pro', sans-serif;
+    text-align: center;
+    text-size:55;
+    background-color:white;
+}
+p{
+  color:white;
+  text align: center;
+}
