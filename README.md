@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Web Designing,Mobile Application 
 - 🌱 I’m currently learning ...java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...+917604888917
+- 📫 How to reach me ...+917871520325
 - 📫 now iam studying MCA 1st year
 
 <!---
